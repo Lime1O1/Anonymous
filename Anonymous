@@ -98,6 +98,8 @@ I will start by investigating the FTP port (21). According to our portscan, Anon
 Anonymous FTP login allowed
 
 
+$ ftp IP 
+$ username : Anonymous
 $ ls
 	
 	There is a directory called scripts.
